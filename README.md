@@ -50,5 +50,5 @@ Which will yield the following in place change to all sub crates
 
 ```toml
 [dependencies]
-private-registry-demo-server = { version = "0.1.0" , registry = "internal" }
+some_dep = { version = "0.1.0" , registry = "internal" }
 ```
