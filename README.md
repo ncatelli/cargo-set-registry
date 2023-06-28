@@ -1,1 +1,1 @@
-# crate-edit
+# crate-edit-registry
