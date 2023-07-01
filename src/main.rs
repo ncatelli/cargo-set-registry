@@ -3,6 +3,7 @@ use std::process;
 
 mod cli;
 mod errors;
+mod set_registry;
 
 fn main() {
     let args = cli::Command::parse();

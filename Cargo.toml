@@ -1,5 +1,5 @@
 [package]
-name = "crate-edit-registry"
+name = "cargo-set-registry"
 version = "0.1.0"
 edition = "2021"
 
